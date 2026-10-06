@@ -2,7 +2,7 @@
 
 name = "Hubert"
 age = 42
-height = "6.4"
+height = 6.4
 is_student = True
 
 print(name, type(name))
