@@ -5,6 +5,11 @@ age = 42
 height = "6.4"
 is_student = True
 
+print(name, type(name))
+print(age, type(age))
+print(height, type(height))
+print(is_student, type(is_student))
+
 # section 2
 
 name = input("Please state your name:" )
